@@ -1,24 +1,40 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
+
+# GitHub Actions가 SVG 파일을 저장소에 push할 수 있도록 허용
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Generate 3D contribution profile
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+
+      - name: Commit and push generated files
         run: |
-          git config user.name minnnnnngun
-          git config user.email 20261305@dsm.hs.kr
-          git add -A .
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A profile-3d-contrib
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
           git commit -m "generated"
           git push
