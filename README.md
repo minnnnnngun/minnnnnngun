@@ -155,14 +155,18 @@
 </p>
 <!-- REPO_COMMIT_STATS:END -->
 
-## 🐤 Productive Box · Commit Time Statistics
+## 🐤 Productive Box
 
 <p align="center">
-  <img
-    src="./assets/productive-box.svg"
-    width="760"
-    alt="Productive Box commit time statistics"
-  />
+  <a
+    href="https://gist.github.com/minnnnnngun/e80d01bee8f9407257955aa307a47c81"
+    aria-label="Productive Box commit time statistics"
+  >
+    <img
+      src="https://img.shields.io/badge/Productive_Box-Commit_Time_Stats-7DD3FC?style=for-the-badge&logo=github&logoColor=white"
+      alt="Productive Box commit time statistics"
+    />
+  </a>
 </p>
 
 <p align="center">
