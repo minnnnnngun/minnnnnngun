@@ -86,6 +86,14 @@ JavaScript와 TypeScript를 사용하며 HTML, CSS, C도 함께 공부하고 있
   <code>✦ language signal detected · ◉ public activity tracking · 🚀 keep shipping</code>
 </p>
 
+<!-- REPO_COMMIT_STATS:START -->
+## 📚 Repository Commit Log
+
+<p align="center">
+  <strong>GitHub Actions가 저장소별 커밋 수를 자동으로 계산합니다.</strong>
+</p>
+<!-- REPO_COMMIT_STATS:END -->
+
 ## 🐤 Productive Box
 
 <table align="center">
@@ -104,7 +112,7 @@ JavaScript와 TypeScript를 사용하며 HTML, CSS, C도 함께 공부하고 있
 </table>
 
 <p align="center">
-  <sub>커밋 시간대를 분석해 아침형 🐤 또는 야행성 🦉 패턴을 보여줍니다.</sub>
+  <strong>커밋 시간대를 분석해 아침형 🐤 또는 야행성 🦉 패턴을 보여줍니다.</strong>
 </p>
 
 ---
@@ -142,7 +150,7 @@ JavaScript와 TypeScript를 사용하며 HTML, CSS, C도 함께 공부하고 있
 </div>
 
 <p align="center">
-  <sub>Keep building. Keep exploring. 🚀</sub>
+  <strong>Keep building. Keep exploring. 🚀</strong>
 </p>
 
 <p align="center">
