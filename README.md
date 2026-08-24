@@ -1,4 +1,3 @@
-
 <!-- minnnnnngun GitHub Profile README -->
 
 <p align="center">
@@ -90,6 +89,20 @@ JavaScript와 TypeScript를 사용하며 HTML, CSS, C도 함께 공부하고 있
   />
 </p>
 
+## 🔥 Most Used Language
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minnnnnngun&amp;theme=github_dark"
+    width="420"
+    alt="Most used programming languages"
+  />
+</p>
+
+<p align="center">
+  <sub>공개 저장소의 코드 비율 기준으로 자동 계산됩니다.</sub>
+</p>
+
 ## 📡 Contribution Orbit
 
 <p align="center">
@@ -108,22 +121,12 @@ JavaScript와 TypeScript를 사용하며 HTML, CSS, C도 함께 공부하고 있
   />
 </p>
 
-## 🧊 3D Contribution Galaxy
-
-<p align="center">
-  <img
-    src="./profile-3d-contrib/profile-green-animate.svg"
-    width="100%"
-    alt="3D contribution graph"
-  />
-</p>
-
 ## 📬 Contact
 
 <p align="center">
-  <a href="mailto:20261305@dsm.hs.kr">20261305@dsm.hs.kr</a>
+  <code>20261305@dsm.hs.kr</code>
   &nbsp;·&nbsp;
-  <a href="mailto:mingeon0828@gmail.com">mingeon0828@gmail.com</a>
+  <code>mingeon0828@gmail.com</code>
 </p>
 
 <p align="center">
@@ -137,17 +140,3 @@ JavaScript와 TypeScript를 사용하며 HTML, CSS, C도 함께 공부하고 있
     alt=""
   />
 </p>
-<!--
-**minnnnnngun/minnnnnngun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
