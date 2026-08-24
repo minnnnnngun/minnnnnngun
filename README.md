@@ -121,12 +121,48 @@ JavaScript와 TypeScript를 사용하며 HTML, CSS, C도 함께 공부하고 있
   />
 </p>
 
+## 🌈 3D Contribution Galaxy
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    width="100%"
+    alt="3D rainbow contribution graph"
+  />
+</p>
+
 ## 📬 Contact
 
 <p align="center">
-  <code>20261305@dsm.hs.kr</code>
-  &nbsp;·&nbsp;
-  <code>mingeon0828@gmail.com</code>
+  <a
+    href="mailto:20261305@dsm.hs.kr"
+    aria-label="20261305@dsm.hs.kr"
+  >
+    <img
+      src="https://img.shields.io/badge/Email-20261305%40dsm.hs.kr-0EA5E9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
+      alt=""
+    />
+  </a>
+
+  <a
+    href="mailto:mingeon0828@gmail.com"
+    aria-label="mingeon0828@gmail.com"
+  >
+    <img
+      src="https://img.shields.io/badge/Email-mingeon0828%40gmail.com-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
+      alt=""
+    />
+  </a>
+
+  <a
+    href="https://www.linkedin.com/in/%EB%AF%BC%EA%B1%B4-%EB%B0%95-299667421/"
+    aria-label="LinkedIn"
+  >
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
+      alt=""
+    />
+  </a>
 </p>
 
 <p align="center">
