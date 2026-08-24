@@ -111,7 +111,7 @@
 ## 🐤 Productive Box · Commit Time Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/gist?id=e80d01bee8f9407257955aa307a47c81&amp;show_owner=false&amp;hide_border=true&amp;bg_color=050816&amp;title_color=7DD3FC&amp;text_color=CBD5E1&amp;icon_color=A78BFA&amp;cache_seconds=1800" width="500" alt="Productive Box commit time statistics" />
+  <img src="./assets/productive-box.svg" width="760" alt="Productive Box commit time statistics" />
 </p>
 
 <p align="center">
