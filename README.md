@@ -26,13 +26,10 @@
 
 <h1 align="center">👋  minnnnnngun입니다</h1>
 
-
-<hr />
-
 <pre>
 ┌─────────────────────────────────────┐
 │  USER      : minnnnnngun             │
-│  ROLE      : Frontend Explorer       │
+│  ROLE      : Frontend Devloper       │
 │  FOCUS     : UI · Interaction        │
 │  STATUS    : build / learn           │
 │  CURIOSITY : unlimited               │
