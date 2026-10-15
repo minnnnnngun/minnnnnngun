@@ -63,18 +63,14 @@
 <p align="center">
   <a href="mailto:mingeon0828@gmail.com" aria-label="Email">
     <img
-      src="https://api.iconify.design/mdi/email.svg?color=%23A78BFA"
-      width="34"
-      height="34"
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/%EB%AF%BC%EA%B1%B4-%EB%B0%95-299667421/" aria-label="LinkedIn">
     <img
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
-      width="34"
-      height="34"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
