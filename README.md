@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="46" alt="CSS" />
 </p>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img
@@ -38,7 +38,27 @@
   />
 </p>
 
-## Contact
+## 🔥 Most Used Language
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=minnnnnngun&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=7DD3FC&text_color=CBD5E1&card_width=420&locale=kr&cache_seconds=21600"
+    width="420"
+    alt="Most used programming languages"
+  />
+</p>
+
+## 🌈 Contribution Map
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    width="100%"
+    alt="3D contribution graph"
+  />
+</p>
+
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:mingeon0828@gmail.com" aria-label="Email">
