@@ -24,18 +24,8 @@
   />
 </p>
 
-<h1 align="center">👋 안녕하세요, minnnnnngun입니다</h1>
+<h1 align="center">👋  minnnnnngun입니다</h1>
 
-<p align="center">
-  <strong>React를 중심으로 인터페이스를 만들고, 작은 아이디어를 실제 화면으로 바꾸고 있습니다.</strong>
-</p>
-
-<p align="center">
-  <img
-    src="https://moon-svg.minung.dev/moon.svg?theme=basic"
-    alt="Moon phase"
-  />
-</p>
 
 <hr />
 
